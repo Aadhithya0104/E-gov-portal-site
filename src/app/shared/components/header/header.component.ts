@@ -20,7 +20,7 @@ import { AuthService } from '../../../core/services/auth.service';
         <!-- Emblem -->
         <a routerLink="/home" class="flex-shrink-0">
           <div class="w-14 h-14 rounded-full bg-navy flex items-center justify-center border-2 border-saffron/40">
-            <span class="text-saffron font-serif text-2xl font-bold">த</span>
+            <span class="text-saffron font-serif text-2xl font-bold">TN</span>
           </div>
         </a>
 
